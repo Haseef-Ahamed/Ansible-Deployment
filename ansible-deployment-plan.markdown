@@ -363,3 +363,7 @@ This plan helps 10 students build an Ansible project to automate deploying a web
 - **Day 2**: Phase 3.  
 - **Day 3**: Phases 4-5.  
 - **Day 4**: Phase 6.
+
+
+# AWS References :
+https://shreedhar1998.hashnode.dev/automating-nginx-installation-and-application-deployment-across-multiple-servers-using-ansible-jenkins
